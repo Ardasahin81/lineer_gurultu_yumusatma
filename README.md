@@ -1,4 +1,4 @@
-Lineer Gürültü Yumuşatma
+## Lineer Gürültü Yumuşatma ##
 
 Lineer gürültü yumuşatma filtreleri gauss, tuz & biber gibi belirli tip gürültüleri azaltmak için kullanılırlar. 
 
